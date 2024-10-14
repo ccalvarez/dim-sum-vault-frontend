@@ -20,9 +20,11 @@ Se escribieron [pruebas unitarias](packages/foundry/test/DimSumVault.t.sol) para
 
 ## Contratos validados
 
-- [STRANGE Token (asset de la bóveda)](https://sepolia.etherscan.io/address/0x7EdDe69d363fCE3a8B39f9531Daf44dd20f46c09)
+- STRANGE Token (asset de la bóveda)<br/>
+  [0x7EdDe69d363fCE3a8B39f9531Daf44dd20f46c09](https://sepolia.etherscan.io/address/0x7EdDe69d363fCE3a8B39f9531Daf44dd20f46c09)
 
-- [Dim Sum Vault](https://sepolia.etherscan.io/address/0x082c7d9448ffc9a596b00e99346e14137a30fd44)
+- Dim Sum Vault<br/>
+  [0x082c7d9448ffc9a596b00e99346e14137a30fd44](https://sepolia.etherscan.io/address/0x082c7d9448ffc9a596b00e99346e14137a30fd44)
 
 ## Instrucciones para el despliegue y verificación en Etherscan
 
