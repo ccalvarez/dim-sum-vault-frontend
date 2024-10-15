@@ -58,7 +58,7 @@ yarn vercel
 
 Decidimos utilizar las siguientes herramientas de desarrollo del ecosistema de Ethereum:
 
-- [Scaffold-ETH 2](https://scaffoldeth.io)
+- [Scaffold-ETH 2](https://docs.scaffoldeth.io)
 
 - [Foundry](https://book.getfoundry.sh)
 
